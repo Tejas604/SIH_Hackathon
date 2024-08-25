@@ -1,14 +1,4 @@
 
-<style>
-@import url('https://fonts.googleapis.com/css2?family=Baskervville+SC&family=DM+Serif+Text:ital@0;1&display=swap');
-body {
-    font-family: 'Baskervville SC', serif !important;
-}
-h1, h2, h3, h4, h5, h6 {
-    font-family: 'DM Serif Text', serif !important;
-}
-</style>
-
 <h1>Smart India Hackathon </h1>
 
 
@@ -85,3 +75,15 @@ Ans.
 2. [Contract Farming - Detailed Points](https://vikaspedia.in/agriculture/market-information/contract-farming-a-mechanism-of-alternative-marketing#:~:text=Contract%20farming%20can%20be%20defined,a%20farm%20product%20or%20products.)
 3. [2024 Indian Farmers Protest](https://en.wikipedia.org/wiki/2024_Indian_farmers%27_protest#:~:text=The%20primary%20requests%20of%20the,of%20loans%20for%20all%20farmers.&text=Fixed%20daily%20wages%20for%20farming,of%20guaranteed%20employment%20a%20year.)
 4. 
+
+
+> Unrenderable style tags and custom fonts 
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Baskervville+SC&family=DM+Serif+Text:ital@0;1&display=swap');
+body {
+    font-family: 'Baskervville SC', serif !important;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'DM Serif Text', serif !important;
+}
+</style>
